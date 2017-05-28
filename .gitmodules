@@ -13,3 +13,6 @@
 [submodule "riki_pid"]
 	path = riki_pid
 	url = https://github.com/ykevin/riki_pid.git
+[submodule "rikirobot_4wd"]
+	path = rikirobot_4wd
+	url = https://github.com/ykevin/rikirobot_4wd.git
