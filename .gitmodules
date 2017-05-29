@@ -16,3 +16,12 @@
 [submodule "rikirobot_4wd"]
 	path = rikirobot_4wd
 	url = https://github.com/ykevin/rikirobot_4wd.git
+[submodule "rikirobot_apps"]
+	path = rikirobot_apps
+	url = https://github.com/ykevin/rikirobot_apps.git
+[submodule "rikirobot_nav"]
+	path = rikirobot_nav
+	url = https://github.com/ykevin/rikirobot_nav.git
+[submodule "rikirobot_vision"]
+	path = rikirobot_vision
+	url = https://github.com/ykevin/rikirobot_vision.git
