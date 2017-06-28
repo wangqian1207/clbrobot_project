@@ -25,3 +25,6 @@
 [submodule "rikirobot_vision"]
 	path = rikirobot_vision
 	url = https://github.com/ykevin/rikirobot_vision.git
+[submodule "frontier_exploration"]
+	path = frontier_exploration
+	url = https://github.com/ykevin/frontier_exploration.git
