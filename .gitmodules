@@ -28,3 +28,6 @@
 [submodule "frontier_exploration"]
 	path = frontier_exploration
 	url = https://github.com/ykevin/frontier_exploration.git
+[submodule "rikirobot_mecanum"]
+	path = rikirobot_mecanum
+	url = https://github.com/ykevin/rikirobot_mecanum.git
