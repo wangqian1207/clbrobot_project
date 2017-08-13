@@ -31,3 +31,6 @@
 [submodule "rikirobot_mecanum"]
 	path = rikirobot_mecanum
 	url = https://github.com/ykevin/rikirobot_mecanum.git
+[submodule "rikirobot_omni"]
+	path = rikirobot_omni
+	url = https://github.com/ykevin/rikirobot_omni.git
