@@ -34,3 +34,6 @@
 [submodule "rikirobot_omni"]
 	path = rikirobot_omni
 	url = https://github.com/ykevin/rikirobot_omni.git
+[submodule "rikirobot_omni4wd"]
+	path = rikirobot_omni4wd
+	url = https://github.com/ykevin/rikirobot_omni4wd.git
