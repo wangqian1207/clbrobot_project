@@ -13,9 +13,6 @@
 [submodule "riki_pid"]
 	path = riki_pid
 	url = https://github.com/ykevin/riki_pid.git
-[submodule "rikirobot_4wd"]
-	path = rikirobot_4wd
-	url = https://github.com/ykevin/rikirobot_4wd.git
 [submodule "rikirobot_apps"]
 	path = rikirobot_apps
 	url = https://github.com/ykevin/rikirobot_apps.git
@@ -28,12 +25,3 @@
 [submodule "frontier_exploration"]
 	path = frontier_exploration
 	url = https://github.com/ykevin/frontier_exploration.git
-[submodule "rikirobot_mecanum"]
-	path = rikirobot_mecanum
-	url = https://github.com/ykevin/rikirobot_mecanum.git
-[submodule "rikirobot_omni"]
-	path = rikirobot_omni
-	url = https://github.com/ykevin/rikirobot_omni.git
-[submodule "rikirobot_omni4wd"]
-	path = rikirobot_omni4wd
-	url = https://github.com/ykevin/rikirobot_omni4wd.git
