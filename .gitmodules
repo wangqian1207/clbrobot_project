@@ -1,15 +1,9 @@
 [submodule "rikirobot"]
 	path = rikirobot
 	url = https://github.com/ykevin/rikirobot.git
-[submodule "rplidar_ros"]
-	path = rplidar_ros
-	url = https://github.com/ykevin/rplidar_ros.git
 [submodule "riki_msgs"]
 	path = riki_msgs
 	url = https://github.com/ykevin/riki_msgs.git
-[submodule "ros_arduino"]
-	path = ros_arduino
-	url = https://github.com/ykevin/ros_arduino.git
 [submodule "riki_pid"]
 	path = riki_pid
 	url = https://github.com/ykevin/riki_pid.git
