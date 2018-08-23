@@ -25,3 +25,6 @@
 [submodule "riki_follower"]
 	path = riki_follower
 	url = https://github.com/ykevin/riki_follower.git
+[submodule "riki_lidar_follower"]
+	path = riki_lidar_follower
+	url = https://github.com/ykevin/riki_lidar_follower.git
